@@ -1,0 +1,82 @@
+[
+  {
+    "title": "Complete Python Tutorial for Beginners",
+    "url": "https://youtu.be/yRpLlJmRo2w?si=BSsvH-SNIL9n1TAE",
+    "description": "Learn Python programming from basics to advanced concepts with practical examples. This comprehensive course covers variables, data types, loops, functions, OOP, and more.",
+    "category": "Python",
+    "duration": "4:26:52",
+    "instructor": "Programming with Mosh"
+  },
+  {
+    "title": "JavaScript Full Course for Beginners",
+    "url": "https://youtu.be/LusTv0RlnSU?si=KAO6uDAnJQw8cSwA",
+    "description": "Complete JavaScript tutorial covering fundamentals, DOM manipulation, and modern ES6+ features. Perfect for absolute beginners starting web development.",
+    "category": "JavaScript",
+    "duration": "8:56:00",
+    "instructor": "Dave Gray"
+  },
+  {
+    "title": "React JS Full Course 2023",
+    "url": "https://youtu.be/I5srDu75h_M?si=de1Cm1q05X6iQkyv",
+    "description": "Build modern web applications with React.js including hooks, context API, and best practices. Learn component-based development and state management.",
+    "category": "React",
+    "duration": "11:55:52",
+    "instructor": "Bob Ziroll"
+  },
+  {
+    "title": "HTML & CSS Full Course",
+    "url": "https://youtu.be/0r1SfRoLuzU?si=v9ZdDWwnKgzpFBnV",
+    "description": "Learn web development fundamentals with HTML5 and CSS3 from scratch. Build responsive websites with modern design principles.",
+    "category": "Web Development",
+    "duration": "6:31:00",
+    "instructor": "SuperSimpleDev"
+  },
+  {
+    "title": "C Language Tutorial for Beginners",
+    "url": "https://youtu.be/pFPZ83mgH00?si=wNLZxpDB0SAroc8f",
+    "description": "Master C programming language with hands-on examples and projects. Learn pointers, memory management, and data structures.",
+    "category": "C Programming",
+    "duration": "3:46:13",
+    "instructor": "Apna College"
+  },
+  {
+    "title": "Node.js Full Course for Beginners",
+    "url": "https://youtu.be/Oe421EPjeBE",
+    "description": "Complete Node.js tutorial covering Express.js, REST APIs, MongoDB integration, and authentication. Build full-stack applications.",
+    "category": "Node.js",
+    "duration": "8:16:48",
+    "instructor": "freeCodeCamp"
+  },
+  {
+    "title": "Machine Learning Course - Python",
+    "url": "https://youtu.be/7eh4d6sabA0",
+    "description": "Learn machine learning fundamentals with Python. Covers supervised learning, neural networks, and practical ML projects.",
+    "category": "Machine Learning",
+    "duration": "12:00:00",
+    "instructor": "Andrew Ng"
+  },
+  {
+    "title": "MongoDB Complete Tutorial",
+    "url": "https://youtu.be/2QQGWYe7IDU",
+    "description": "Master MongoDB database from basics to advanced. Learn CRUD operations, indexing, aggregation, and Atlas cloud deployment.",
+    "category": "Database",
+    "duration": "2:42:00",
+    "instructor": "Web Dev Simplified"
+  },
+  {
+    "title": "Data Science Full Course",
+    "url": "https://youtu.be/ua-CiDNNj30",
+    "description": "Complete data science course covering Python, NumPy, Pandas, Matplotlib, machine learning, and real-world projects.",
+    "category": "Data Science",
+    "duration": "12:00:00",
+    "instructor": "edureka!"
+  },
+  {
+    "title": "Web Development Bootcamp 2023",
+    "url": "https://youtu.be/nu_pCVPKzTk",
+    "description": "Full-stack web development bootcamp. Learn HTML, CSS, JavaScript, React, Node.js, and build complete projects.",
+    "category": "Web Development",
+    "duration": "16:00:00",
+    "instructor": "Angela Yu"
+  }
+]
